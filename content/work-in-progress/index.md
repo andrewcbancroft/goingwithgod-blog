@@ -30,6 +30,6 @@ Lest you wonder "What's up with this guy??", I've got this page to give you a he
 
 On the flip side, just because I remove the "work in progress" notice from an article, it doesn't mean my I think my work is perfect.  It just means I've moved on, and am not *actively* working on it.
 
-I'm always open to suggestions for improvement, and [since this site is hosted on GitHub](https://github.com/andrewcbancroft/andrewcbancroft-blog), you're welcome to send pull requests (I'd love that)! Fix my spelling; give a better illustration; report a bug; set me straight (kindly, please 😀).
+I'm always open to suggestions for improvement, and [since this site is hosted on GitHub](https://github.com/andrewcbancroft/goingwithgod-blog), you're welcome to send pull requests (I'd love that)! Fix my spelling; give a better illustration; report a bug; set me straight (kindly, please 😀).
 
 Now, back to your regularly scheduled reading. 🙌🏻
