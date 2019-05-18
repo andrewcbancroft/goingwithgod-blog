@@ -1,0 +1,9 @@
+baseURL = "https://www.goingwithgod.com"
+languageCode = "en-us"
+title = "Going With God"
+description = 'You make known to me the path of life... Psalm 16:11'
+theme = "berbera"
+
+canonifyURLs=true
+publishDir="docs"
+disableKinds = ["section", "taxonomy", "taxonomyTerm"]

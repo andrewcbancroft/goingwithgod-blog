@@ -1,0 +1,87 @@
+{{ define "header" }}
+<header class="header header-index content-wrapper">
+    <div class="site-intro">
+        <div class="grav-inner">
+            <div class="grav-grav">
+                    <img alt="Going with God" src="https://secure.gravatar.com/avatar/0b101be68a7900c0571e1a0c350f6f3a?s=256&amp;d=mm&amp;r=g" srcset="https://secure.gravatar.com/avatar/0b101be68a7900c0571e1a0c350f6f3a?s=512&amp;d=mm&amp;r=g 2x" class="avatar avatar-256 photo" height="256" width="256">            </div>
+        </div>
+        <h1 class="site-title">{{ .Site.Title}}</h1>
+        <br>
+        <h2 class="site-description">You make known to me the path of life... Psalm 16:11</h2>
+    </div>
+</header>
+{{ end }}
+
+{{ define "main" }}
+<main>
+    <div class="homepage">
+        <span id="bible" class="jump-target"></span>
+        <div class="row" id="">
+            <div class="col-sm-12">
+                <h3 class="category_header">Bible</h3>
+            </div>
+        </div>
+
+        <div class="row" id="">
+            <div class="col-sm-12">
+                <div class="card">
+                    <div class="card-body">
+                        <ul>
+                            {{ range (where .Pages "File.Dir" "in" "/blog/bible/").ByTitle }}
+                            <li>
+                                <a href="{{.Permalink}}">{{ .PublishDate.Format "Jan 2006" }} - {{.Title}}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <span id="family" class="jump-target"></span>
+        <div class="row" id="">
+            <div class="col-sm-12">
+                <h3 class="category_header">Family</h3>
+            </div>
+        </div>
+
+        <div class="row" id="">
+            <div class="col-sm-12">
+                <div class="card">
+                    <div class="card-body">
+                        <ul>
+                            {{ range (where .Pages "File.Dir" "in" "/blog/family/").ByDate }}
+                            <li>
+                                <a href="{{.Permalink}}">{{ .PublishDate.Format "Jan 2006" }} - {{.Title}}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <span id="reflections" class="jump-target"></span>
+        <div class="row" id="">
+            <div class="col-sm-12">
+                <h3 class="category_header">Reflections</h3>
+            </div>
+        </div>
+
+        <div class="row" id="">
+            <div class="col-sm-12">
+                <div class="card">
+                    <div class="card-body">
+                        <ul>
+                            {{ range (where .Pages "File.Dir" "in" "/blog/reflections/").ByDate }}
+                            <li>
+                                <a href="{{.Permalink}}">{{ .PublishDate.Format "Jan 2006" }} - {{.Title}}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+</main>
+{{ end }}
