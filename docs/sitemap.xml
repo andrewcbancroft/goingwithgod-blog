@@ -1,96 +1,59 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.goingwithgod.com/</loc>
-    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
   <url>
     <loc>https://www.goingwithgod.com/work-in-progress/</loc>
     <lastmod>2018-02-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://www.goingwithgod.com/</loc>
+    <lastmod>2015-11-30T05:09:13+00:00</lastmod>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/family/2015-11-30-my-how-youve-changed/</loc>
     <lastmod>2015-11-30T05:09:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/family/2015-04-02-goodnight-grandpa/</loc>
     <lastmod>2015-04-02T19:32:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/bible/2015-02-19-reflections-love-asking-much-giving-little/</loc>
     <lastmod>2015-02-19T04:45:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/reflections/2014-12-11-experiencing-miracle-review-caged/</loc>
     <lastmod>2014-12-12T04:20:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/bible/2014-05-20-simple-words-powerful-cross/</loc>
     <lastmod>2014-05-20T18:13:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/bible/2014-01-06-is-gods-god-ness-enough/</loc>
     <lastmod>2014-01-06T13:32:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/family/2013-06-16-fathers-day-2-0/</loc>
     <lastmod>2013-06-16T16:55:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/family/2013-03-31-how-old-is-silas-allen/</loc>
     <lastmod>2013-03-31T14:36:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/bible/2013-03-24-review-of-love-to-the-uttermost-2/</loc>
     <lastmod>2013-03-24T21:09:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/bible/2013-03-23-delight-yourself-in-the-lord-and-he-will-give-you-what/</loc>
     <lastmod>2013-03-23T16:27:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/family/2013-03-16-meet-the-bancrofts/</loc>
     <lastmod>2013-03-16T00:58:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/bible/2013-03-12-whos-who/</loc>
     <lastmod>2013-03-12T19:46:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/reflections/2011-11-13-remaining-with-god-going-with-god/</loc>
     <lastmod>2011-11-13T15:01:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/bible/2011-07-16-think-about-these-things/</loc>
     <lastmod>2011-07-16T10:52:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/reflections/2011-05-28-blessed-to-be-a-blessing/</loc>
     <lastmod>2011-05-28T21:21:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.goingwithgod.com/blog/bible/2011-03-21-who-delivered-him-up/</loc>
     <lastmod>2011-03-21T06:33:34+00:00</lastmod>
   </url>
-  
 </urlset>
